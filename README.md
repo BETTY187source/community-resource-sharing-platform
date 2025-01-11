@@ -11,7 +11,6 @@ A platform that allows community members to share or lend resources such as tool
   - Backend: Node.js, Express.js, MongoDB
 
 ## G
-
 ### Prerequisites
 - **Node.js** and **npm** installed on your local machine.
 - **MongoDB** installed locally or use [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) for cloud storage.
