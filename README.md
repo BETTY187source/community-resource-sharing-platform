@@ -10,7 +10,7 @@ A platform that allows community members to share or lend resources such as tool
   - Frontend: React.js
   - Backend: Node.js, Express.js, MongoDB
 
-## Getting St
+## Getting S
 
 ### Prerequisites
 - **Node.js** and **npm** installed on your local machine.
