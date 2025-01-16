@@ -1,4 +1,5 @@
- // models/Resource.js
+
+// models/Resource.js
 const mongoose = require('mongoose');
 
 const resourceSchema = new mongoose.Schema({
