@@ -1,6 +1,6 @@
 # Community Resource Sharing Platform
 
-A platform that allows community members to share or lend resources such as tools, equipment, and other items, helping reduce waste and foster a sense of community. This project connects individuals who have resources they are willing to share with others who need them.
+A platform that enables community members to share or lend resources such as tools, equipment, and other items, helping reduce waste and foster a sense of community. This project connects individuals who have resources they are willing to share with others who need them.
 
 ## Features
 - **Resource Listing:** Community members can add resources they are willing to lend or share.
