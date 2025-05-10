@@ -7,7 +7,7 @@ A platform that allows community members to share or lend resources such as tool
 - **Add Resources:** Users can add new resources through a simple form.
 - **Tech Stack:**
   - Frontend: React.js
-  - Backen: Node.js, Express.js, MongoDB
+  - Backend: Node.js, Express.js, MongoDB
     
 ### Prerequisites
 - **Node.js** and **npm** installed on your local machine.
