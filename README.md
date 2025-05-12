@@ -3,7 +3,7 @@ A platform that allows community members to share or lend resources such as tool
 
 ## Features
 - **Resource Listing:** Community members can add resources they are willing to lend or shares.
-- **Accessible Resources:** Displays a list of avail resources with descriptions, owner details, and location.
+- **Accessible Resources:** Displays a list of availa resources with descriptions, owner details, and location.
 - **Add Resources:** Users can add new resources through a simple form.
 - **Tech Stack:**
   - Frontend: React.js
