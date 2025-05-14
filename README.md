@@ -1,4 +1,4 @@
-# Community Resource Sharing Platfor
+# Community Resource Sharing Platfo
 A platform that allows community members to share or lend resources such as tools, equipment, and other items, helping reduce waste and foster a sense of community. This project connects who have resources they are willing to share with others who need them.
 
 ## Features
