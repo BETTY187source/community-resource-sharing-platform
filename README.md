@@ -6,7 +6,7 @@ A platform that allows community members to share or lend resources such as tool
 - **Accessible Resources:** Displays a list of available description resources owner details, and location
 - **Add Resources:** Users can add new resources through a simple form.
 - **Tech Stack:**
-  - Frontend: React.js
+  - Frontend: React.js 
   - Backend: Node.js, Express.js, MongoDB
     
 ### Prerequisites
